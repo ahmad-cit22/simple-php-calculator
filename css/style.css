@@ -1,0 +1,13 @@
+/* Common CSS */
+
+a {
+    text-decoration: none;
+}
+
+.clr {
+    clear: both;
+}
+
+.card-body h6 {
+    text-align: left;
+}
